@@ -1,0 +1,7 @@
+chat.openai.com
+api.openai.com
+bard.google.com
+gemini.google.com
+claude.ai
+character.ai
+perplexity.ai
