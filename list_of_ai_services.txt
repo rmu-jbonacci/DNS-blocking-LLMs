@@ -49,6 +49,7 @@
 *.perplexity.ai
 *.poe.com
 *.promptboom.com
+*.pi.ai
 *.qwen.ai
 *.search.brave.com
 *.sharedchat.cn
@@ -109,6 +110,7 @@ newstop.c1ns.cn
 opkfc.com
 origin.eqing.tech
 perplexity.ai
+pi.ai
 poe.com
 promptboom.com
 qwen.ai
