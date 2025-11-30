@@ -1,78 +1,18 @@
-0.0.0.0 *.ai.ls
-0.0.0.0 *.aitianhu.com
-0.0.0.0 *.bard.google.com
-0.0.0.0 *.bettergpt.chat
-0.0.0.0 *.bing.com
-0.0.0.0 *.cgs.skybyte.me
-0.0.0.0 *.chat.ai365vip.com
-0.0.0.0 *.chat.iwoso.co
-0.0.0.0 *.chat.kunshanyuxin.com
-0.0.0.0 *.chat.leadscloud.xyz
-0.0.0.0 *.chat5.aiyunos.top
-0.0.0.0 *.chatbotui.com
-0.0.0.0 *.chatgpt.com
-0.0.0.0 *.chatgpt4online.org
-0.0.0.0 *.chatgptfree.ai
-0.0.0.0 *.chatgptplus.cn
-0.0.0.0 *.chatp.free2gpt.xyz
-0.0.0.0 *.chatz.free2gpt.xyz
-0.0.0.0 *.claude.ai
-0.0.0.0 *.claude.free2gpt.xyz
-0.0.0.0 *.consensus.app
-0.0.0.0 *.copilot.microsoft.com
-0.0.0.0 *.daladada.xyz
-0.0.0.0 *.deepai.org
-0.0.0.0 *.deepseek.com
-0.0.0.0 *.dev.yqcloud.top
-0.0.0.0 *.duck.ai
-0.0.0.0 *.easychat.fun
-0.0.0.0 *.free.netfly.top
-0.0.0.0 *.freegpt.cc
-0.0.0.0 *.freegpt.tech
-0.0.0.0 *.gemini.google.com
-0.0.0.0 *.getmerlin.in
-0.0.0.0 *.google.com
-0.0.0.0 *.gptgo.ai
-0.0.0.0 *.grok.com
-0.0.0.0 *.grok.free2gpt.com
-0.0.0.0 *.heck.ai
-0.0.0.0 *.heypi.comtalk
-0.0.0.0 *.huggingface.co
-0.0.0.0 *.kelaode.ai
-0.0.0.0 *.komo.ai
-0.0.0.0 *.meta.ai
-0.0.0.0 *.mistral.ai
-0.0.0.0 *.nb.aitom.cc
-0.0.0.0 *.newstop.c1ns.cn
-0.0.0.0 *.opkfc.com
-0.0.0.0 *.origin.eqing.tech
-0.0.0.0 *.perplexity.ai
-0.0.0.0 *.poe.com
-0.0.0.0 *.promptboom.com
-0.0.0.0 *.pi.ai
-0.0.0.0 *.qwen.ai
-0.0.0.0 *.search.brave.com
-0.0.0.0 *.sharedchat.cn
-0.0.0.0 *.textie.ai
-0.0.0.0 *.tongyi.aliyun.com
-0.0.0.0 *.trychatgp.com
-0.0.0.0 *.typingmind.com
-0.0.0.0 *.yeschat.ai
-0.0.0.0 *.yiyan.baidu.com
-0.0.0.0 *.you.com
-0.0.0.0 *.zyq-chatgpt.github.io
+perplexity.ai
+chat.qwen.ai
+chat.mistral.ai
+textie.ai
+gptgo.ai
+ai.daladada.xyz
 ai.ls
-aitianhu.com
 bard.google.com
 bettergpt.chat
-bing.com
 cgs.skybyte.me
 chat.ai365vip.com
 chat.iwoso.co
 chat.kunshanyuxin.com
 chat.leadscloud.xyz
 chat5.aiyunos.top
-chatbotui.com
 chatgpt.com
 chatgpt4online.org
 chatgptfree.ai
@@ -81,46 +21,43 @@ chatp.free2gpt.xyz
 chatz.free2gpt.xyz
 claude.ai
 claude.free2gpt.xyz
-consensus.app
-copilot.microsoft.com
-daladada.xyz
-deepai.org
-deepseek.com
-dev.yqcloud.top
 duck.ai
+copilot.microsoft.com
+dev.yqcloud.top
 easychat.fun
 free.netfly.top
 freegpt.cc
 freegpt.tech
 gemini.google.com
-getmerlin.in
-google.com
-gptgo.ai
+komo.ai
 grok.com
 grok.free2gpt.com
 heck.ai
-heypi.comtalk
+heypi.com
 huggingface.co
+deepai.org
 kelaode.ai
-komo.ai
-meta.ai
-mistral.ai
 nb.aitom.cc
 newstop.c1ns.cn
-opkfc.com
 origin.eqing.tech
-perplexity.ai
-pi.ai
 poe.com
 promptboom.com
-qwen.ai
-search.brave.com
 sharedchat.cn
-textie.ai
 tongyi.aliyun.com
 trychatgp.com
+aitianhu.com
+chatbotui.com
+deepseek.com
+meta.ai
+opkfc.com
+promptboom.com
 typingmind.com
 yeschat.ai
 yiyan.baidu.com
-you.com
 zyq-chatgpt.github.io
+you.com
+getmerlin.in
+google.com
+bing.com
+search.brave.com
+consensus.app
