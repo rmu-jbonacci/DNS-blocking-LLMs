@@ -14,7 +14,7 @@ chat.kunshanyuxin.com
 chat.leadscloud.xyz
 chat5.aiyunos.top
 chatgpt.com
-chatgpt4online.orgchatgpt-free-online#chat
+chatgpt4online.org
 chatgptfree.ai
 chatgptplus.cn
 chatp.free2gpt.xyz
@@ -34,15 +34,15 @@ grok.com
 grok.free2gpt.com
 heck.ai
 heypi.comtalk
-huggingface.cochat
+huggingface.co
 deepai.org
 kelaode.ai
 nb.aitom.cc
 newstop.c1ns.cn
 origin.eqing.tech
 poe.com
-promptboom.comPowerChatPowerChatTalk
-sharedchat.cnshared.html
+promptboom.com
+sharedchat.cn
 tongyi.aliyun.com
 trychatgp.com
 www.aitianhu.com
@@ -55,7 +55,7 @@ www.typingmind.com
 www.yeschat.ai
 yiyan.baidu.com
 zyq-chatgpt.github.io
-you.comhome
+you.com
 www.getmerlin.in
 google.com
 bing.com
