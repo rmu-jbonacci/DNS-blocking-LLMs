@@ -50,14 +50,10 @@ chatbotui.com
 deepseek.com
 meta.ai
 opkfc.com
-promptboom.com
 typingmind.com
 yeschat.ai
 yiyan.baidu.com
 zyq-chatgpt.github.io
 you.com
 getmerlin.in
-google.com
-bing.com
-search.brave.com
 consensus.app
