@@ -57,3 +57,7 @@ zyq-chatgpt.github.io
 you.com
 www.getmerlin.in
 consensus.app
+google.com
+bing.com
+search.brave.com
+kimi.com
